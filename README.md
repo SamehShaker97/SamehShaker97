@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sameh Shaker
-## A passionate Backend developer from egypt.
+## A passionate Backend developer.
 
 
 - 💬 Ask me about : Backend development, APIs, databases
