@@ -54,3 +54,8 @@
 
 ###
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="samehshaker" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=sameh&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=sameh&style=for-the-badge">
+</a>
