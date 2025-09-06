@@ -17,9 +17,9 @@
 
 ### Contact Me :
 
-<a href="https://www.linkedin.com/in/sameh-shaker-750585209" target="_blank"><img src="https://img.shields.io/badge/-Sameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sameh-shaker-0032a1360" target="_blank"><img src="https://img.shields.io/badge/-Sameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/+201100623600" target="_blank"><img src="https://img.shields.io/badge/-Sameh-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailtosameh.shaker97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Sameh-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="sameh.shaker97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Sameh-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
