@@ -11,7 +11,6 @@
 </p>
 
 - 🏢 A Junior PHP Laravel Backend web developer
-- 🎓 A CS student at HTI (Higher Technological Institute)
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about Php, Database SQl and Laravel
 
